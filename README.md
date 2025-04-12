@@ -28,6 +28,8 @@ A curated collection of PDF cheat sheets organized by topic.
 ## Programming Languages
 - [TTCN3-CheatSheet.pdf](programming-languages/TTCN3-CheatSheet.pdf)
 - [TclTk-CheatSheet.pdf](programming-languages/TclTk-CheatSheet.pdf)
+- [Delphi-CheatSheet.pdf](programming-languages/Delphi-CheatSheet.pdf)
+
 
 ## Misc
 - [Algebra-Review-CheatSheet.pdf](misc/Algebra-Review-CheatSheet.pdf)
